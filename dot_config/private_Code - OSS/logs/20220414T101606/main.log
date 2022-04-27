@@ -1,0 +1,23 @@
+[2022-04-14 10:16:06.288] [main] [info] window#load: attempt to load window (id: 1)
+[2022-04-14 10:16:06.294] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-04-14 10:16:06.315] [main] [info] ExtensionHostStarterWorker created
+[2022-04-14 10:16:07.308] [main] [info] window#load: window reported ready (id: 1)
+[2022-04-14 10:16:07.465] [main] [info] Starting extension host with pid 221586 (fork() took 7 ms).
+[2022-04-14 10:16:07.465] [main] [info] ExtensionHostStarterWorker.start() took 8 ms.
+[2022-04-14 10:22:30.518] [main] [info] window#load: attempt to load window (id: 1)
+[2022-04-14 10:22:30.544] [main] [info] Extension host with pid 221586 exited with code: 0, signal: null.
+[2022-04-14 10:22:31.432] [main] [info] window#load: window reported ready (id: 1)
+[2022-04-14 10:22:31.595] [main] [info] Starting extension host with pid 223616 (fork() took 6 ms).
+[2022-04-14 10:22:31.595] [main] [info] ExtensionHostStarterWorker.start() took 8 ms.
+[2022-04-14 11:52:18.672] [main] [info] window#load: attempt to load window (id: 1)
+[2022-04-14 11:52:18.717] [main] [info] Extension host with pid 223616 exited with code: 0, signal: null.
+[2022-04-14 11:52:19.692] [main] [info] window#load: window reported ready (id: 1)
+[2022-04-14 11:52:19.861] [main] [info] Starting extension host with pid 235851 (fork() took 5 ms).
+[2022-04-14 11:52:19.861] [main] [info] ExtensionHostStarterWorker.start() took 6 ms.
+[2022-04-14 11:57:19.952] [main] [info] window#load: attempt to load window (id: 1)
+[2022-04-14 11:57:19.984] [main] [info] Extension host with pid 235851 exited with code: 0, signal: null.
+[2022-04-14 11:57:20.935] [main] [info] window#load: window reported ready (id: 1)
+[2022-04-14 11:57:21.066] [main] [info] Starting extension host with pid 236542 (fork() took 5 ms).
+[2022-04-14 11:57:21.066] [main] [info] ExtensionHostStarterWorker.start() took 6 ms.
+[2022-04-14 13:51:53.332] [main] [info] Waiting for extension host with pid 236542 to exit.
+[2022-04-14 13:51:53.349] [main] [info] Extension host with pid 236542 exited with code: 0, signal: null.

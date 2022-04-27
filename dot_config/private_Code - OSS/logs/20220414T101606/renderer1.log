@@ -1,0 +1,608 @@
+[2022-04-14 10:38:58.109] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 10:40:46.574] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 10:40:46.930] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 11:30:04.436] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 11:30:04.559] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 11:32:16.298] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 11:33:19.805] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 11:33:51.630] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 11:36:03.949] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 11:36:04.341] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 11:36:49.044] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 11:37:07.127] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 11:39:14.625] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 11:39:14.739] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 11:40:41.343] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 11:40:41.459] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 11:42:42.564] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 11:57:35.449] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 11:58:36.447] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 11:58:40.750] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 12:01:45.835] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 12:04:14.116] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 12:04:59.839] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 12:05:23.726] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 12:05:23.852] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 12:05:54.026] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 12:05:54.258] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 12:05:54.410] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 12:06:40.044] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 12:06:40.305] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 12:06:54.014] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 12:06:54.201] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 12:07:07.010] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 12:07:07.165] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 12:07:07.315] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 12:13:14.458] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 12:13:21.734] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+
+[2022-04-14 12:13:23.609] [renderer1] [error] [Extension Host] PHP Fatal error:  Uncaught Error: Call to undefined method PhpCsFixer\Config::create() in /home/ddomee/.vscode-oss/.php-cs-fixer.php:3
+Stack trace:
+#0 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(946): include()
+#1 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(267): PhpCsFixer\Console\ConfigurationResolver::separatedContextLessInclude()
+#2 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(598): PhpCsFixer\Console\ConfigurationResolver->getConfig()
+#3 phar:///usr/bin/php-cs-fixer/src/Console/ConfigurationResolver.php(444): PhpCsFixer\Console\ConfigurationResolver->getFormat()
+#4 phar:///usr/bin/php-cs-fixer/src/Console/Command/FixCommand.php(261): PhpCsFixer\Console\ConfigurationResolver->getReporter()
+#5 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Command/Command.php(291): PhpCsFixer\Console\Command\FixCommand->execute()
+#6 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(989): Symfony\Component\Console\Command\Command->run()
+#7 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(299): Symfony\Component\Console\Application->doRunCommand()
+#8 phar:///usr/bin/php-cs-fixer/src/Console/Application.php(97): Symfony\Component\Console\Application->doRun()
+#9 phar:///usr/bin/php-cs-fixer/vendor/symfony/console/Application.php(171): PhpCsFixer\Console\Application->doRun()
+#10 /usr/bin/php-cs-fixer(115): Symfony\Component\Console\Application->run()
+#11 {main}
+  thrown in /home/ddomee/.vscode-oss/.php-cs-fixer.php on line 3
+

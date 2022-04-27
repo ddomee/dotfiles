@@ -1,0 +1,136 @@
+{
+    "Boku no Hero Academia": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://horriblesubs.info/rss.php?res=1080"
+        ],
+        "assignedCategory": "ANIME",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "15 Aug 2020 23:38:10 +0000",
+        "mustContain": "Boku no Hero Academia",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "torrentContentLayout": null,
+        "useRegex": false
+    },
+    "Dragon Ball Super": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://horriblesubs.info/rss.php?res=1080"
+        ],
+        "assignedCategory": "ANIME",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "25 Mar 2018 03:02:03 +0000",
+        "mustContain": "Dragon Ball Super",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "torrentContentLayout": null,
+        "useRegex": false
+    },
+    "Mahou Shoujo Tokushusen Asuka": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://horriblesubs.info/rss.php?res=1080"
+        ],
+        "assignedCategory": "",
+        "enabled": false,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "29 Mar 2019 18:15:07 +0000",
+        "mustContain": "Mahou Shoujo Tokushusen Asuka",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": true,
+        "torrentContentLayout": null,
+        "useRegex": false
+    },
+    "Majo no Tabitabi": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://horriblesubs.info/rss.php?res=1080",
+            "http://www.shanaproject.com/feeds/secure/user/42645/V4H9R7DD9X/"
+        ],
+        "assignedCategory": "ANIME",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "18 Dec 2020 14:40:06 +0000",
+        "mustContain": "Majo no Tabitabi",
+        "mustNotContain": "v0",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "torrentContentLayout": null,
+        "useRegex": false
+    },
+    "SAO - Alicization": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://horriblesubs.info/rss.php?res=1080"
+        ],
+        "assignedCategory": "ANIME/SAO - Alicization",
+        "enabled": false,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "30 Nov 2019 17:32:32 +0000",
+        "mustContain": "Sword Art Online - Alicization",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": true,
+        "torrentContentLayout": null,
+        "useRegex": false
+    },
+    "Shana Project Downloader": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://www.shanaproject.com/feeds/secure/user/42645/V4H9R7DD9X/"
+        ],
+        "assignedCategory": "ANIME",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "06 Jan 2022 23:45:07 +0000",
+        "mustContain": "",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": true,
+        "torrentContentLayout": null,
+        "useRegex": false
+    },
+    "Tensei shitara Slime Datta Ken": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://horriblesubs.info/rss.php?res=1080"
+        ],
+        "assignedCategory": "ANIME/Tensei Shitara Slime Datta Ken",
+        "enabled": false,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "04 Dec 2019 14:15:01 +0000",
+        "mustContain": "Tensei shitara Slime Datta Ken",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "torrentContentLayout": null,
+        "useRegex": false
+    }
+}

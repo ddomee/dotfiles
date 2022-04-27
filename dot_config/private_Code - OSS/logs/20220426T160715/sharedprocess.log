@@ -1,0 +1,15 @@
+[2022-04-26 16:07:17.432] [sharedprocess] [info] Starting worker process with pid 78615 (type: fileWatcher, window: 1).
+[2022-04-26 16:07:19.993] [sharedprocess] [info] Getting Manifest... ms-vscode.js-debug-companion
+[2022-04-26 16:07:19.994] [sharedprocess] [info] Getting Manifest... ms-vscode.references-view
+[2022-04-26 16:07:20.953] [sharedprocess] [info] Installing extension: ms-vscode.references-view
+[2022-04-26 16:07:20.995] [sharedprocess] [info] Installing extension: ms-vscode.js-debug-companion
+[2022-04-26 16:07:21.791] [sharedprocess] [info] Downloaded extension: ms-vscode.references-view /home/ddomee/.config/Code - OSS/CachedExtensionVSIXs/ms-vscode.references-view-0.0.89
+[2022-04-26 16:07:21.831] [sharedprocess] [info] Extracted extension to /home/ddomee/.vscode-oss/extensions/.e6acdb22-b36c-43bc-8d89-1b95f46a2e63: ms-vscode.references-view
+[2022-04-26 16:07:21.834] [sharedprocess] [info] Renamed to /home/ddomee/.vscode-oss/extensions/ms-vscode.references-view-0.0.89
+[2022-04-26 16:07:21.835] [sharedprocess] [info] Extracting completed. ms-vscode.references-view
+[2022-04-26 16:07:21.839] [sharedprocess] [info] Extension installed successfully: ms-vscode.references-view
+[2022-04-26 16:07:21.947] [sharedprocess] [info] Downloaded extension: ms-vscode.js-debug-companion /home/ddomee/.config/Code - OSS/CachedExtensionVSIXs/ms-vscode.js-debug-companion-1.0.17
+[2022-04-26 16:07:21.988] [sharedprocess] [info] Extracted extension to /home/ddomee/.vscode-oss/extensions/.bf6b7fce-2d63-4648-9efd-5066995887d5: ms-vscode.js-debug-companion
+[2022-04-26 16:07:21.991] [sharedprocess] [info] Renamed to /home/ddomee/.vscode-oss/extensions/ms-vscode.js-debug-companion-1.0.17
+[2022-04-26 16:07:21.994] [sharedprocess] [info] Extracting completed. ms-vscode.js-debug-companion
+[2022-04-26 16:07:22.007] [sharedprocess] [info] Extension installed successfully: ms-vscode.js-debug-companion

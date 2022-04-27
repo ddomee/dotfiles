@@ -1,0 +1,28 @@
+[2022-04-14 08:22:32.280] [GIT  ] [/srv/http/stiefel_prod] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 6 ms
+
+[2022-04-14 08:22:33.398] [GIT  ] [/srv/http/stiefel_prod] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 7 ms
+
+[2022-04-14 08:22:44.169] [GIT  ] [/srv/http/stiefel_prod/system/core] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 8 ms
+
+[2022-04-14 08:22:53.360] [GIT  ] [/srv/http/stiefel_prod/application/config] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 5 ms
+
+[2022-04-14 08:23:13.841] [GIT  ] [/srv/http/stiefel_prod/application/config] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 4 ms
+
+[2022-04-14 08:23:23.601] [GIT  ] [/srv/http/stiefel_prod/application/config] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 5 ms
+
+[2022-04-14 08:23:27.252] [GIT  ] [/srv/http/stiefel_prod/application/config] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 6 ms
+
+[2022-04-14 08:23:28.079] [GIT  ] [/srv/http/stiefel_prod/application/config] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 5 ms
+
+[2022-04-14 08:23:29.883] [GIT  ] [/srv/http/stiefel_prod/application/config] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 5 ms
+
+[2022-04-14 08:23:51.411] [GIT  ] [/srv/http/stiefel_prod/application/helpers] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 7 ms
+
+[2022-04-14 08:39:16.585] [GIT  ] [/srv/http/stiefel_prod/application/language] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 8 ms
+
+[2022-04-14 08:39:48.516] [GIT  ] [/srv/http/stiefel_prod/application/language] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 40 ms
+
+[2022-04-14 08:51:47.926] [GIT  ] [/srv/http/stiefel_prod/application/views/backend/admin] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 5 ms
+
+[2022-04-14 09:27:05.518] [GIT  ] [/srv/http/stiefel_prod/assets/backend/js] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 80 ms
+

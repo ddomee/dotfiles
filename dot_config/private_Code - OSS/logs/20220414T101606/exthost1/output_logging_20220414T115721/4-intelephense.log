@@ -1,0 +1,9 @@
+[Info  - 11:57:22] Initialising intelephense 1.8.2
+[Info  - 11:57:22] Reading state from /home/ddomee/.config/Code - OSS/User/workspaceStorage/1b15b144e25a156aa537c251dfadc836/bmewburn.vscode-intelephense-client/40e0bc93.
+[Info  - 11:57:22] Initialised in 246 ms
+[Info  - 11:57:22] Searching file:///home/ddomee/.vscode-oss/extensions/bmewburn.vscode-intelephense-client-1.8.2/node_modules/intelephense/lib/stub for files to index.
+[Info  - 11:57:22] Searching file:///srv/http/stiefel_prod for files to index.
+[Info  - 11:57:22] Indexing started.
+[Info  - 11:57:22] Indexing ended. 1 files indexed in 0s.
+[Info  - 11:57:22] Writing state to /home/ddomee/.config/Code - OSS/User/workspaceStorage/1b15b144e25a156aa537c251dfadc836/bmewburn.vscode-intelephense-client/40e0bc93.
+[Info  - 11:57:23] Wrote state in 0.3s.

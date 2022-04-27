@@ -1,0 +1,13 @@
+[2022-04-14T09:52:20.759Z] Validating found git in: git
+[2022-04-14T09:52:20.772Z] Using git 2.35.1 from git
+[2022-04-14T09:52:20.786Z] > git rev-parse --git-dir [1ms]
+[2022-04-14T09:52:20.789Z] Open repository: /srv/http/stiefel
+[2022-04-14T09:52:20.803Z] > git symbolic-ref --short HEAD [1ms]
+[2022-04-14T09:52:20.807Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/fixes0915 refs/remotes/fixes0915 [1ms]
+[2022-04-14T09:52:20.818Z] > git remote --verbose [1ms]
+[2022-04-14T09:52:20.818Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+[2022-04-14T09:52:20.825Z] > git config --get commit.template [1ms]
+[2022-04-14T09:52:21.191Z] > git ls-files --stage -- /srv/http/stiefel/application/models/Institution_model.php [7ms]
+[2022-04-14T09:52:21.209Z] > git cat-file -s 874b438f0e48ee85c511504f2b848dda12f6c7b8 [6ms]
+[2022-04-14T09:52:28.771Z] > git ls-files --stage -- /srv/http/stiefel/application/helpers/multi_language_helper.php [0ms]
+[2022-04-14T09:52:28.776Z] > git cat-file -s bda6fec7b077bfa40e2fc454aac6a4e8c2d30a8e [1ms]

@@ -1,0 +1,8 @@
+[2022-04-27 16:30:54.796] [main] [info] window#load: attempt to load window (id: 1)
+[2022-04-27 16:30:54.810] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-04-27 16:30:54.842] [main] [info] ExtensionHostStarterWorker created
+[2022-04-27 16:30:55.836] [main] [info] window#load: window reported ready (id: 1)
+[2022-04-27 16:30:55.973] [main] [info] Starting extension host with pid 78729 (fork() took 9 ms).
+[2022-04-27 16:30:55.974] [main] [info] ExtensionHostStarterWorker.start() took 14 ms.
+[2022-04-27 16:31:23.384] [main] [info] Waiting for extension host with pid 78729 to exit.
+[2022-04-27 16:31:23.402] [main] [info] Extension host with pid 78729 exited with code: 0, signal: null.

@@ -1,0 +1,11 @@
+[2022-04-14T08:22:32.084Z] Validating found git in: git
+[2022-04-14T08:22:32.091Z] Using git 2.35.1 from git
+[2022-04-14T09:19:06.441Z] > git rev-parse --git-dir [2ms]
+[2022-04-14T09:19:06.446Z] Open repository: /srv/http/stiefel
+[2022-04-14T09:19:06.547Z] > git symbolic-ref --short HEAD [47ms]
+[2022-04-14T09:19:06.573Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/fixes0915 refs/remotes/fixes0915 [19ms]
+[2022-04-14T09:19:06.594Z] > git remote --verbose [11ms]
+[2022-04-14T09:19:06.595Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [17ms]
+[2022-04-14T09:19:06.604Z] > git config --get commit.template [1ms]
+[2022-04-14T09:19:06.942Z] > git ls-files --stage -- /srv/http/stiefel/application/language/hungarian.json [11ms]
+[2022-04-14T09:19:06.951Z] > git cat-file -s 11cf0032a75d32b6897f0675018e3e20bb5da0f6 [2ms]

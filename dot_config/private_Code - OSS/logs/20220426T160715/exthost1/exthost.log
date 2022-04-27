@@ -1,0 +1,11 @@
+[2022-04-26 16:07:17.292] [exthost] [info] Extension host with pid 78565 started
+[2022-04-26 16:07:17.360] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-26 16:07:17.365] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-04-26 16:07:17.369] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-26 16:07:17.391] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-04-26 16:07:17.403] [exthost] [info] Eager extensions activated
+[2022-04-26 16:07:17.407] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-26 16:07:17.421] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-26 16:07:17.424] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-26 16:07:27.225] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-04-26 16:07:27.250] [exthost] [info] Extension host with pid 78565 exiting with code 0

@@ -1,0 +1,94 @@
+[2022-04-14 10:11:14.390] [exthost] [info] Extension host with pid 219918 started
+[2022-04-14 10:11:14.444] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+[2022-04-14 10:11:14.450] [exthost] [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client, startup: false, activationEvent: 'onLanguage:php'
+[2022-04-14 10:11:14.458] [exthost] [info] ExtensionService#_doActivateExtension junstyle.php-cs-fixer, startup: false, activationEvent: 'onLanguage:php'
+[2022-04-14 10:11:14.528] [exthost] [info] ExtensionService#_doActivateExtension neilbrayfield.php-docblocker, startup: false, activationEvent: 'onLanguage:php'
+[2022-04-14 10:11:14.531] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-14 10:11:14.534] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-04-14 10:11:14.535] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-14 10:11:14.537] [exthost] [info] ExtensionService#_doActivateExtension DmitryDorofeev.empty-indent, startup: true, activationEvent: '*'
+[2022-04-14 10:11:14.538] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+[2022-04-14 10:11:14.663] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-04-14 10:11:14.675] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-04-14 10:11:14.703] [exthost] [info] Eager extensions activated
+[2022-04-14 10:11:14.722] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-14 10:11:14.726] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-14 10:11:14.727] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-14 10:11:14.733] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-14 10:11:14.761] [exthost] [info] ExtensionService#_doActivateExtension Gruntfuggly.todo-tree, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-14 10:12:03.075] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-04-14 10:12:03.078] [exthost] [error] An error occurred when deactivating the subscriptions for extension 'bmewburn.vscode-intelephense-client':
+[2022-04-14 10:12:03.078] [exthost] [error] TypeError: Cannot read private member from an object whose class did not declare it
+	at Pe (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:90:7024)
+	at Object.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:76:90801)
+	at g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:8:12307)
+	at d._deactivate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:90:11931)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:90:10226
+	at Array.map (<anonymous>)
+	at deactivateAll (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:90:10214)
+	at _.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:880)
+	at c (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:36243)
+	at Socket.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:33938)
+	at Socket.emit (events.js:327:22)
+	at Pipe.<anonymous> (net.js:673:12)
+[2022-04-14 10:12:03.083] [exthost] [error] An error occurred when deactivating the subscriptions for extension 'Gruntfuggly.todo-tree':
+[2022-04-14 10:12:03.083] [exthost] [error] Error: Encountered errors while disposing of store. Errors: [TypeError: a.dispose is not a function, TypeError: a.dispose is not a function]
+	at g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:8:12383)
+	at d._deactivate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:90:11931)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:90:10226
+	at Array.map (<anonymous>)
+	at deactivateAll (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:90:10214)
+	at _.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:880)
+	at c (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:36243)
+	at Socket.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:33938)
+	at Socket.emit (events.js:327:22)
+	at Pipe.<anonymous> (net.js:673:12)
+[2022-04-14 10:12:03.087] [exthost] [info] Extension host with pid 219918 exiting with code 0
+[2022-04-14 10:12:04.561] [exthost] [info] Extension host with pid 220124 started
+[2022-04-14 10:12:04.561] [exthost] [info] Skipping acquiring lock for /home/ddomee/.config/Code - OSS/User/workspaceStorage/62555c5bf34648cf151308d07e3ebce6.
+[2022-04-14 10:12:04.611] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-14 10:12:04.613] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-04-14 10:12:04.614] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-14 10:12:04.616] [exthost] [info] ExtensionService#_doActivateExtension DmitryDorofeev.empty-indent, startup: true, activationEvent: '*'
+[2022-04-14 10:12:04.617] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+[2022-04-14 10:12:04.644] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-04-14 10:12:04.656] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-04-14 10:12:04.676] [exthost] [info] Eager extensions activated
+[2022-04-14 10:12:04.686] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-14 10:12:04.690] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-14 10:12:04.692] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-14 10:12:04.698] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-14 10:12:04.726] [exthost] [info] ExtensionService#_doActivateExtension Gruntfuggly.todo-tree, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-14 10:12:11.136] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+[2022-04-14 10:12:11.141] [exthost] [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client, startup: false, activationEvent: 'onLanguage:php'
+[2022-04-14 10:12:11.149] [exthost] [info] ExtensionService#_doActivateExtension junstyle.php-cs-fixer, startup: false, activationEvent: 'onLanguage:php'
+[2022-04-14 10:12:11.219] [exthost] [info] ExtensionService#_doActivateExtension neilbrayfield.php-docblocker, startup: false, activationEvent: 'onLanguage:php'
+[2022-04-14 10:13:43.120] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-04-14 10:16:02.117] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-04-14 10:16:02.125] [exthost] [error] An error occurred when deactivating the subscriptions for extension 'bmewburn.vscode-intelephense-client':
+[2022-04-14 10:16:02.125] [exthost] [error] TypeError: Cannot read private member from an object whose class did not declare it
+	at Pe (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:90:7024)
+	at Object.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:76:90801)
+	at g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:8:12307)
+	at d._deactivate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:90:11931)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:90:10226
+	at Array.map (<anonymous>)
+	at deactivateAll (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:90:10214)
+	at _.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:880)
+	at c (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:36243)
+	at Socket.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:33938)
+	at Socket.emit (events.js:327:22)
+	at Pipe.<anonymous> (net.js:673:12)
+[2022-04-14 10:16:02.134] [exthost] [error] An error occurred when deactivating the subscriptions for extension 'Gruntfuggly.todo-tree':
+[2022-04-14 10:16:02.134] [exthost] [error] Error: Encountered errors while disposing of store. Errors: [TypeError: a.dispose is not a function, TypeError: a.dispose is not a function]
+	at g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:8:12383)
+	at d._deactivate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:90:11931)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:90:10226
+	at Array.map (<anonymous>)
+	at deactivateAll (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:90:10214)
+	at _.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:880)
+	at c (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:36243)
+	at Socket.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:33938)
+	at Socket.emit (events.js:327:22)
+	at Pipe.<anonymous> (net.js:673:12)
+[2022-04-14 10:16:02.142] [exthost] [info] Extension host with pid 220124 exiting with code 0

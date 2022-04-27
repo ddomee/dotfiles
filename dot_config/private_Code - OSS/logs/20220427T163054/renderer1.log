@@ -1,0 +1,4 @@
+[2022-04-27 16:30:56.280] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
+[2022-04-27 16:30:56.349] [renderer1] [info] [eamodio.gitlens]: `git.commit` is not a valid menu identifier
+[2022-04-27 16:30:56.397] [renderer1] [error] [tsega.drupal-8-twig-snippets]: Unknown language in `contributes.drupal-8-twig-snippets.language`. Provided value: twig
+[2022-04-27 16:30:56.582] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.

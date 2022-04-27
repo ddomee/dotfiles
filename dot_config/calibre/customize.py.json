@@ -1,0 +1,17 @@
+{
+  "disabled_plugins": {
+    "__class__": "set",
+    "__value__": []
+  },
+  "enabled_plugins": {
+    "__class__": "set",
+    "__value__": [
+      "Google Books"
+    ]
+  },
+  "filetype_mapping": {},
+  "plugin_customization": {},
+  "plugins": {
+    "DeDRM": "/home/ddomee/.config/calibre/plugins/DeDRM.zip"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "main_window_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAtbAAAALQAADu8AAAQnAAALXQAAAEwAAA7tAAAEJQAAAAEAAAAAB4AAAAtdAAAATAAADu0AAAQl"
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAJIA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAApgD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAHABiAG8AbwBrAG0AYQByAGsAcwAtAGQAbwBjAGsAAAAAAP////8AAAEKAP////sAAAAWAGwAbwBvAGsAdQBwAC0AZABvAGMAawAAAAAA/////wAAAJQA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAGAD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAOYA////AAADkQAAA9oAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "session_data": {
+    "base_font_size": 80,
+    "controls_help_shown_count": 2,
+    "standalone_font_settings": {},
+    "standalone_misc_settings": {
+      "remember_last_read": true,
+      "remember_window_geometry": false,
+      "save_annotations_in_ebook": true,
+      "singleinstance": false
+    },
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Talion"
+        ],
+        "key": "/home/ddomee/Downloads/Talion - Have a nice trip! (2003-09-27).mobi",
+        "pathtoebook": "/home/ddomee/Downloads/Talion - Have a nice trip! (2003-09-27).mobi",
+        "timestamp": "2022-04-03T07:39:16.890Z",
+        "title": "2003-09-27 Have a nice trip! (rated: G)"
+      },
+      {
+        "key": "/home/ddomee/Documents/Reincarnated as Yamcha/Imgur Album The Case of Being Reincarnated As Yamcha Chapter 1.cbz",
+        "pathtoebook": "/home/ddomee/Documents/Reincarnated as Yamcha/Imgur Album The Case of Being Reincarnated As Yamcha Chapter 1.cbz",
+        "timestamp": "2021-11-04T16:38:34.286Z",
+        "title": "Imgur Album The Case of Being Reincarnated As Yamcha Chapter 1"
+      },
+      {
+        "authors": [
+          "moviefan-92"
+        ],
+        "key": "/home/ddomee/Calibre Library/moviefan-92/Reprogrammed (870)/Reprogrammed - moviefan-92.mobi",
+        "pathtoebook": "/home/ddomee/Calibre Library/moviefan-92/Reprogrammed (870)/Reprogrammed - moviefan-92.mobi",
+        "timestamp": "2021-04-05T21:41:33.790Z",
+        "title": "Reprogrammed"
+      },
+      {
+        "authors": [
+          "Jeconais"
+        ],
+        "key": "/home/ddomee/Calibre Library/Jeconais/Hope (799)/Hope - Jeconais.mobi",
+        "pathtoebook": "/home/ddomee/Calibre Library/Jeconais/Hope (799)/Hope - Jeconais.mobi",
+        "timestamp": "2021-01-09T21:53:55.214Z",
+        "title": "Hope"
+      },
+      {
+        "authors": [
+          "Jeconais"
+        ],
+        "key": "/home/ddomee/Calibre Library/Jeconais/White Knight, Grey Queen (797)/White Knight, Grey Queen - Jeconais.mobi",
+        "pathtoebook": "/home/ddomee/Calibre Library/Jeconais/White Knight, Grey Queen (797)/White Knight, Grey Queen - Jeconais.mobi",
+        "timestamp": "2021-01-09T21:53:41.291Z",
+        "title": "White Knight, Grey Queen"
+      },
+      {
+        "authors": [
+          "Jeconais"
+        ],
+        "key": "/home/ddomee/Calibre Library/Jeconais/Happily Ever After (796)/Happily Ever After - Jeconais.mobi",
+        "pathtoebook": "/home/ddomee/Calibre Library/Jeconais/Happily Ever After (796)/Happily Ever After - Jeconais.mobi",
+        "timestamp": "2021-01-09T21:53:30.244Z",
+        "title": "Happily Ever After"
+      },
+      {
+        "authors": [
+          "Jeconais"
+        ],
+        "key": "/home/ddomee/Downloads/Perfect_Situations.mobi",
+        "pathtoebook": "/home/ddomee/Downloads/Perfect_Situations.mobi",
+        "timestamp": "2021-01-09T21:50:15.843Z",
+        "title": "Perfect Situations"
+      },
+      {
+        "authors": [
+          "Twitch E. Littleferret"
+        ],
+        "key": "/home/ddomee/Calibre Library/Twitch E. Littleferret/2006-07-13 Envy (rated_ NC17) (682)/2006-07-13 Envy (rated_ NC17) - Twitch E. Littleferret.mobi",
+        "pathtoebook": "/home/ddomee/Calibre Library/Twitch E. Littleferret/2006-07-13 Envy (rated_ NC17) (682)/2006-07-13 Envy (rated_ NC17) - Twitch E. Littleferret.mobi",
+        "timestamp": "2020-05-09T16:00:34.815Z",
+        "title": "2006-07-13 Envy (rated: NC17)"
+      },
+      {
+        "authors": [
+          "Amethyst"
+        ],
+        "key": "/home/ddomee/Documents/Amethyst - Kissing Lessons for the Beginner (2006-02-13).mobi",
+        "pathtoebook": "/home/ddomee/Documents/Amethyst - Kissing Lessons for the Beginner (2006-02-13).mobi",
+        "timestamp": "2020-04-03T12:45:31.526Z",
+        "title": "2006-02-13 Kissing Lessons for the Beginner (rated: NC17)"
+      },
+      {
+        "authors": [
+          "Lynney"
+        ],
+        "key": "/home/ddomee/Documents/Lynney - Magic Never Dies (2006-01-28).mobi",
+        "pathtoebook": "/home/ddomee/Documents/Lynney - Magic Never Dies (2006-01-28).mobi",
+        "timestamp": "2020-04-03T12:41:56.288Z",
+        "title": "2006-01-28 Magic Never Dies (rated: R)"
+      },
+      {
+        "authors": [
+          "DeliverMeFromEve"
+        ],
+        "key": "/home/ddomee/Calibre Library/DeliverMeFromEve/2005-10-16 Hermione Full of Grace (rated_ NC17) (650)/2005-10-16 Hermione Full of Grace (rated_ - DeliverMeFromEve.mobi",
+        "pathtoebook": "/home/ddomee/Calibre Library/DeliverMeFromEve/2005-10-16 Hermione Full of Grace (rated_ NC17) (650)/2005-10-16 Hermione Full of Grace (rated_ - DeliverMeFromEve.mobi",
+        "timestamp": "2020-03-28T15:17:36.352Z",
+        "title": "2005-10-16 Hermione Full of Grace (rated: NC17)"
+      },
+      {
+        "authors": [
+          "kb0"
+        ],
+        "key": "/home/ddomee/Calibre Library/kb0/The British Reformation (545)/The British Reformation - kb0.epub",
+        "pathtoebook": "/home/ddomee/Calibre Library/kb0/The British Reformation (545)/The British Reformation - kb0.epub",
+        "timestamp": "2019-12-27T23:47:53.507Z",
+        "title": "The British Reformation"
+      },
+      {
+        "authors": [
+          "EpubPress"
+        ],
+        "key": "/home/ddomee/Calibre Library/Floreatcastellum/Harry was born 9 months after Halloween (526)/Harry was born 9 months after Halloween - Floreatcastellum.epub",
+        "pathtoebook": "/home/ddomee/Calibre Library/Floreatcastellum/Harry was born 9 months after Halloween (526)/Harry was born 9 months after Halloween - Floreatcastellum.epub",
+        "timestamp": "2019-12-14T15:15:47.090Z",
+        "title": "Harry was born 9 months after Halloween"
+      },
+      {
+        "authors": [
+          "LolaAnn"
+        ],
+        "key": "/home/ddomee/Calibre Library/LolaAnn/Grand Canyon (515)/Grand Canyon - LolaAnn.epub",
+        "pathtoebook": "/home/ddomee/Calibre Library/LolaAnn/Grand Canyon (515)/Grand Canyon - LolaAnn.epub",
+        "timestamp": "2019-11-27T20:01:37.793Z",
+        "title": "Grand Canyon"
+      },
+      {
+        "authors": [
+          "LeQuin"
+        ],
+        "key": "/home/ddomee/Calibre Library/LeQuin/Teddy's First Trick or Treat (513)/Teddy's First Trick or Treat - LeQuin.epub",
+        "pathtoebook": "/home/ddomee/Calibre Library/LeQuin/Teddy's First Trick or Treat (513)/Teddy's First Trick or Treat - LeQuin.epub",
+        "timestamp": "2019-11-23T11:33:49.984Z",
+        "title": "Teddy's First Trick or Treat"
+      },
+      {
+        "authors": [
+          "Master Slytherin"
+        ],
+        "key": "/home/ddomee/Calibre Library/Master Slytherin/What Lies Beneath (508)/What Lies Beneath - Master Slytherin.epub",
+        "pathtoebook": "/home/ddomee/Calibre Library/Master Slytherin/What Lies Beneath (508)/What Lies Beneath - Master Slytherin.epub",
+        "timestamp": "2019-11-23T11:29:03.284Z",
+        "title": "What Lies Beneath"
+      },
+      {
+        "authors": [
+          "Fanfictionfan360"
+        ],
+        "key": "/home/ddomee/Calibre Library/Fanfictionfan360/Good company (490)/Good company - Fanfictionfan360.epub",
+        "pathtoebook": "/home/ddomee/Calibre Library/Fanfictionfan360/Good company (490)/Good company - Fanfictionfan360.epub",
+        "timestamp": "2019-11-23T11:07:12.574Z",
+        "title": "Good company"
+      }
+    ]
+  }
+}
